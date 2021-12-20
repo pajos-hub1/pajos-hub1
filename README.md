@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pajos-hub1
-- Am a Python Developer, PHP Developer
+- Am a Python Developer,Data Analyst
 - HTML, CSS, SASS, JS, ReactJS as frontend 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ReactJS

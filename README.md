@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @pajos-hub1
-- I am a Python Developer; Data Scientist
-- HTML, CSS, SASS, JS, ReactJS as frontend 
+- I am a Python Developer; Data Scientist, LLM Developer
+- Machine Learning Engineer,  ReactJS as frontend 
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on Python and Data Analytics Project
+\- 💞️ I’m looking to collaborate on Python and Data Analytics Project
 - 📫 How to reach me +2347017485418
 - My mail is joseph.adeoye111@gmail.com
 
